@@ -2,7 +2,8 @@
 
 
 
-Visualization of DrugBank Chemical spac
+Visualization of DrugBank Chemical space
+========================================
 
 
 
