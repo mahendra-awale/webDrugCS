@@ -1,9 +1,10 @@
 # webDrugCS
 
+
+
 Visualization of DrugBank Chemical spac
 
-webDrugCS
-==========
+
 
 It's a website (www.gdbtools.unibe.ch:8080/webDrugCS/) for exploration of DrugBank Chemical Space. The visualizer part of the application is based on publicly available THREE.js (http://threejs.org/) javascript library.  
 
