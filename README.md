@@ -5,7 +5,7 @@
 Visualization of DrugBank Chemical space
 ========================================
 
-*It's a website (www.gdbtools.unibe.ch:8080/webDrugCS/) for exploration of DrugBank Chemical Space. The visualizer part of the application is based on publicly available THREE.js (http://threejs.org/) javascript library.*
+#It's a website (www.gdbtools.unibe.ch:8080/webDrugCS/) for exploration of DrugBank Chemical Space//. The visualizer part of the application is based on publicly available THREE.js (http://threejs.org/) javascript library.*
 
 The webDrugCS provides accessed to five different representations of DrugBank Chemical space, which were generated from Principal Components Analysis (PCA) of five different fingeprints namely: MQN, SMIfp, APfp, Xfp and Sfp fingerprints. A user can also map or project external set of compounds onto the DrugBank Chemical Space.
 
