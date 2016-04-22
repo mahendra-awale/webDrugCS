@@ -28,4 +28,4 @@ Important: All JSP files call classes from JAVA project in WEB-INF folder. Basic
 
 If you want to get rid-off these WEB-INF folder then, you will need to change the JSP files and somehow directly needs to read the *.data file by your own. 
 
-c) dbases folder: you find dbases folder inside wrbDrugCS folder. This folder contains subfolder, which corrosponds to each fingeprint. FOr each fingepreint, eigenvalues and eigenvectors are provided. *.totalminmax file contains min and max values from PC1 and PC-2. These files will be used in JAVA-project for projecting the external molecules onto DrugBank chemical space.   
+c) dbases folder: you find dbases folder inside webDrugCS folder. This folder contains subfolder, which corrosponds to each fingeprint. For each fingepreint, eigenvalues and eigenvectors are provided. *.totalminmax file contains min and max values from PC1 and PC-2. These files will be used in JAVA-project for projecting the external molecules onto DrugBank chemical space.   
